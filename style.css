@@ -1,0 +1,17 @@
+/* phone first*/
+.hero-title {
+  font-size: 2.5rem;
+}
+.lead {
+  font-size: 1.125rem;
+}
+
+/* Matches bootstraps md so its from 768 up*/
+@media (mon-width: 768px) {
+  .hero-title {
+    font-size: 4.5rem;
+  }
+  .lead {
+    font-size: 1.5rem;
+  }
+}
